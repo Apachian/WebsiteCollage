@@ -50,7 +50,7 @@ function Contacts() {
           </li>
           <li>
             <img src={phones} alt="" />
-            +9 123-987-8493
+            +91-9267943310
           </li>
           <li>
             <img src={locations} alt="" />
